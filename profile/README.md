@@ -22,7 +22,7 @@
 
 ```yaml
 Company Name: VEDANT TECHSERVE PTE LTD
-Located at: 20 Trevorrow Way, Ripley,QLD 4306 Australia.
+Located at: Treetops Square 12 2 Classic Way Burleigh Waters QLD 4220 Australia.
 ABN: 68859086520
 
 Abount Us : In order to create specialised, distinctive, and cutting-edge mobile apps for the top brands, corporations, startups, and businesses in the globe, Vedant Techserve was “formed” out of the desire to bring together the best Web, Android and iOS engineers from all over the world.
